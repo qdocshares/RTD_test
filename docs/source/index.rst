@@ -16,5 +16,5 @@ documentation for details.
    :caption: Contents:
 
    intro
-   UsbNet
+   UsbNet/UsbNet
    UsbNet/ppp

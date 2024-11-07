@@ -1,4 +1,5 @@
-Actually it is not good idea to put ppp in this chapter.
+PPP
+==================
 
 ppp won't occupy an USB interface descriptor. 
 
@@ -37,8 +38,9 @@ Point - to - Point Protocol (PPP) is a communication protocol of the data link l
 
 [pppd.h](http://androidos.net.cn/android/9.0.0_r8/xref/external/ppp/pppd/pppd.h)
 
+# PPPD exit 
 
-### modem hangup
+## modem hangup
 
 It's not easy to judge the reason of exit_Hangup.
 
@@ -68,7 +70,7 @@ I conclude those attention:
 
 ---
 
-### the difference between SIGINT,SIGTERM,SIGHUP
+## the difference between SIGINT,SIGTERM,SIGHUP
 
 to be done..
 
@@ -76,7 +78,7 @@ waiting ...
 
 ---
 
-More about PPP protocol
+# More about PPP protocol
 
 [Point to Point Protocol(PPP) by vkota1.@sycamores.indstate.edu](http://cs.indstate.edu/~vkota1/main.pdf)
 
