@@ -1,6 +1,7 @@
 PPP
 ==================
 
+# What is PPP
 ppp won't occupy an USB interface descriptor. 
 
 ppp is one way the modules to set up data call on the data link layer. Normally the modules will use the USB interface 3 (you can call it ttyPPP port, or ttyModem port, it will be shown as a modem in the devmgmt on Windows OS.) to start a ppp connection.
@@ -82,4 +83,4 @@ waiting ...
 
 [Point to Point Protocol(PPP) by vkota1.@sycamores.indstate.edu](http://cs.indstate.edu/~vkota1/main.pdf)
 
-UCxx PPP问题初步排查�导_V01_Max_2015-09-23(1).docx
+UCxx PPP问题初步排查�导_V01_Max_2015-09-23.docx
