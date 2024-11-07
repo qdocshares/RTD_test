@@ -1,4 +1,4 @@
-----------
+#usbnet
 
 Net Interface Type can be configured with AT cmds. 
 
