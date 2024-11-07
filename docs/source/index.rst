@@ -17,3 +17,4 @@ documentation for details.
 
    intro
    UsbNet
+   UsbNet/ppp

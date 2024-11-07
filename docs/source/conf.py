@@ -12,13 +12,14 @@ sys.path.insert(0, os.path.abspath('../src'))
 
 project = 'rtd'
 copyright = '2024, admin'
-author = 'admin'
+author = 'biaowang'
 release = 'v0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = ["recommonmark",
+                "myst_parser",
                 'sphinx_markdown_tables']
 
 source_suffix = {
